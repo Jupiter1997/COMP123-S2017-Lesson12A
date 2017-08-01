@@ -1,6 +1,6 @@
 ﻿namespace COMP123_S2017_Lesson12A1
 {
-    partial class Form1
+    partial class Demo
     {
         /// <summary>
         /// Required designer variable.
